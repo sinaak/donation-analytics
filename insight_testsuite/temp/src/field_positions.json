@@ -1,0 +1,8 @@
+{
+    "CMTE_ID": 0,
+    "NAME": 7,
+    "ZIP_CODE": 10,
+    "TRANSACTION_DT": 13,
+    "TRANSACTION_AMT": 14,
+    "OTHER_ID": 15
+}
